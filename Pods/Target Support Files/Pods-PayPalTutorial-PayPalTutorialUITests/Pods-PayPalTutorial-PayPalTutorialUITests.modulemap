@@ -1,0 +1,6 @@
+framework module Pods_PayPalTutorial_PayPalTutorialUITests {
+  umbrella header "Pods-PayPalTutorial-PayPalTutorialUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
